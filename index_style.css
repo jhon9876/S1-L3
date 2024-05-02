@@ -1,0 +1,28 @@
+body{
+    margin-left: 10em;
+    margin-right: 10em
+   
+}
+
+
+#linea-gialla{
+    background-color: rgb(210, 210, 17);
+    text-align: center;
+    color:rgb(10, 141, 184);
+}
+
+h1{
+    text-align: center;
+}
+
+#Spiegazione-immagine{
+    text-align: center;
+}
+
+#Scritta-featured{
+    color: red;
+}
+
+li{
+    margin-bottom: 20px;
+}
